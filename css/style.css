@@ -73,9 +73,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: inherit;
   font-weight: inherit;
 }
-body{
+/* body{
   font-family: "Raleway", sans-serif;
-}
+} */
 /*-----reset settings-------*/
 .container {
   max-width: 1270px;
@@ -172,10 +172,9 @@ body{
 .education__img{
   margin-top: 153px;
   margin-right: -100px;
+  max-width: 100%;
 }
-/* .education__img img{
-  max-width: 400px;
-} */
+
 /* comments */
 
 .comments__wrap{
